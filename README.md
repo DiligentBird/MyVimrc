@@ -1,2 +1,2 @@
 # MyVimrc
-this is my .vimrc profile
+this is my .vimrc profile for c/c++ developer.
